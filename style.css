@@ -1,0 +1,40 @@
+* {
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: red;
+}
+
+li {
+    color: rgb(253, 16, 253);
+}
+
+.banners {
+    background-color: yellow;
+
+}
+
+header {
+    background-color: blue;
+    h2 {
+        background-color: aqua;
+    }
+}
+
+div {
+    background-color: chocolate;
+}
+#oferta {
+    background-color: brown;
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+img:hover{
+    scale: 1.05;
+}
